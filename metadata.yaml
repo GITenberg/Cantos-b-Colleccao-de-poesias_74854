@@ -1,0 +1,27 @@
+_repo: Cantos-b-Colleccao-de-poesias_74854
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dias, António Gonçalves
+    gutenberg_agent_id: '57687'
+    url: http://www.gutenberg.org/2009/agents/57687
+description: ''
+gutenberg_issued: '2024-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74854'
+language: pt
+pgterms:marc905: 20071130035552dias
+pgterms:marc906: '1860'
+pgterms:marc907: DE
+production_note: Rita Farinha, Laura Natal, Alberto Manuel Brandão Simões and the
+  Online Distributed Proofreading Team at https://www.pgdp.net (This book was produced
+  from scanned images of public domain material from the Google Books project.)
+publication_note: '  $aLeipzig :$bF. A. Brockhaus, $c1860.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Cantos : $b Collecção de poesias'
+url: http://www.gutenberg.org/ebooks/74854
