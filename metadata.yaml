@@ -1,11 +1,16 @@
 _repo: Cantos-b-Colleccao-de-poesias_74854
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74854-h/images/cover.jpg
 creator:
   author:
     agent_name: Dias, António Gonçalves
     gutenberg_agent_id: '57687'
     url: http://www.gutenberg.org/2009/agents/57687
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74854#Cantos-b-Colleccao-de-poesias
 gutenberg_issued: '2024-12-07'
 gutenberg_type: Text
 identifiers:
